@@ -1,5 +1,0 @@
--EDA
--Preprocessing
--TextCNN
--Documentation
--Parts of Poster
